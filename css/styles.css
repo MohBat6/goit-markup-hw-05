@@ -219,6 +219,8 @@ margin-right: 50px;
 }
 .modal-close {
     position: absolute;
+    width: 30px;
+    height: 30px;
     padding: 9px;
     top: 8px;
     right: 8px;
