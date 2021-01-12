@@ -56,6 +56,7 @@ a {
     align-items: center;
     margin-left: auto;
     margin-right: auto;
+    border-bottom: 1px solid #ECECEC;
     background-color: var(--hero-text-color)
 }
 .site-nav {
